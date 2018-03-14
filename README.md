@@ -22,5 +22,5 @@ CLAW Compiler
 CLAW X2T (XcodeML to XcodeML Translator) is the part in charge of the AST
 analysis and transformations based on the directives.
 
-The Java documentation of the CLAW X2T libraries is available
-[here](./javadoc/index.html).
+The [Java documentation](./javadoc/index.html) of the CLAW X2T libraries is
+available.
