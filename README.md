@@ -12,6 +12,12 @@ CLAW Directive Language Specifications.
 Intent of this language is to achieve performance portability on weather and
 climate code, especially for column- or point-wise computation.
 
+CLAW Directive Language
+[official repository](https://github.com/claw-project/claw-language-specification)
+
+CLAW Compiler
+[official repository](https://github.com/claw-project/claw-compiler)
+
 ### CLAW X2T
 CLAW X2T (XcodeML to XcodeML Translator) is the part in charge of the AST
 analysis and transformations based on the directives.
