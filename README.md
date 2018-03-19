@@ -13,6 +13,7 @@ Intent of this language is to achieve performance portability on weather and
 climate code, especially for column- or point-wise computation.
 
 * [**CLAW Directive Language official repository**](https://github.com/claw-project/claw-language-specification)
+  * [Specification v0.4.0](./resources/claw_language_specifications_v0.4.0.pdf)
 
 * [**CLAW Compiler official repository**](https://github.com/claw-project/claw-compiler)
 
