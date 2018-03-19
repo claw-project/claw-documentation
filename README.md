@@ -24,3 +24,8 @@ analysis and transformations based on the directives.
 
 The [Java documentation](./javadoc/index.html) of the CLAW X2T libraries is
 available.
+
+### Contributing
+The CLAW Project is welcoming contribution. More information can be found on the official
+repository. 
+A [Slack](https://claw-compiler.slack.com/) workspace is available for discussions.
