@@ -28,5 +28,18 @@ available.
 
 ### Contributing
 The CLAW Project is welcoming contribution. More information can be found on the official
-repository. 
+repository.
 A [Slack](https://claw-compiler.slack.com/) workspace is available for discussions.
+
+### About
+This work was initially funded by the ETH zürich and the PASC initiative under
+the [ENIAC](http://www.pasc-ch.org/projects/2017-2020/eniac/) project.
+
+![C2SM Logo](resources/c2sm_logo_small.gif)
+
+![PASC Logo](resources/pasc_logo.svg)
+
+![MCH Logo](resources/mch_logo.png)
+
+---
+CLAW logo by [adrienbachmann.ch](http://www.adrienbachmann.ch)
