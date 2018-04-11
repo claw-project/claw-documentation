@@ -36,9 +36,7 @@ This work was initially funded by the ETH zürich and the PASC initiative under
 the [ENIAC](http://www.pasc-ch.org/projects/2017-2020/eniac/) project.
 
 ![C2SM Logo](resources/c2sm_logo_small.gif)
-
 ![PASC Logo](resources/pasc_logo.svg)
-
 ![MCH Logo](resources/mch_logo.png)
 
 ---
