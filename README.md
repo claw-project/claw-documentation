@@ -35,9 +35,12 @@ A [Slack](https://claw-compiler.slack.com/) workspace is available for discussio
 This work was initially funded by the ETH zürich and the PASC initiative under
 the [ENIAC](http://www.pasc-ch.org/projects/2017-2020/eniac/) project.
 
-![C2SM Logo](resources/c2sm_logo_black.png)
-![PASC Logo](resources/pasc_logo.svg)
-![MCH Logo](resources/mch_logo_1.png)
+
+<div style="text-align:center">
+<a href="http://www.c2sm.ethz.ch" target="_blank"><img src ="resources/c2sm_logo_black.png"/></a>
+<a href="https://www.pasc-ch.org" target="_blank"><img src ="resources/pasc_logo.svg"/></a>
+<a href="http://www.meteoswiss.admin.ch" target="_blank"><img src ="resources/mch_logo_1.png"/></a>
+</div>
 
 ---
 CLAW logo by [adrienbachmann.ch](http://www.adrienbachmann.ch)
