@@ -31,6 +31,13 @@ The CLAW Project is welcoming contribution. More information can be found on the
 repository.
 A [Slack](https://claw-compiler.slack.com/) workspace is available for discussions.
 
+### Resources
+
+
+* Plenary Talk at PASC'18: The CLAW DSL: Abstractions for Performance Portable Weather and Climate Models
+
+  [![pasc18](https://img.youtube.com/vi/zns7JcbuKB4/2.jpg)](https://www.youtube.com/watch?v=zns7JcbuKB4)
+
 ### About
 This work was initially funded by the ETH zürich and the PASC initiative under
 the [ENIAC](http://www.pasc-ch.org/projects/2017-2020/eniac/) project.
