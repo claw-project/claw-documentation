@@ -41,7 +41,7 @@ A [Slack](https://claw-compiler.slack.com/) workspace is available for discussio
 
 ##### Talks
 * Plenary Talk at PASC'18: The CLAW DSL: Abstractions for Performance Portable
-  Weather and Climate Models [Slides](./resources/20180702_claw_pasc18.pdf)
+  Weather and Climate Models [[Slides](./resources/20180702_claw_pasc18.pdf)]
 
   [![pasc18](https://img.youtube.com/vi/zns7JcbuKB4/2.jpg)](https://www.youtube.com/watch?v=zns7JcbuKB4)
 
