@@ -14,6 +14,7 @@ climate code, especially for column- or point-wise computation.
 
 * [**CLAW Directive Language official repository**](https://github.com/claw-project/claw-language-specification)
   * [Specification v0.4.0](./resources/claw_language_specifications_v0.4.0.pdf)
+  * [Specification v1.1.0](./resources/claw_language_specifications_v1.1.0.pdf)
 
 * [**CLAW Compiler official repository**](https://github.com/claw-project/claw-compiler)
   * [Releases](https://github.com/claw-project/claw-compiler/releases)
