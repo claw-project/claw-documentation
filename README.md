@@ -16,7 +16,7 @@ climate code, especially for column- or point-wise computation.
   * [Official repository](https://github.com/claw-project/claw-language-specification)
   * [Specification v0.4.0 ](./resources/claw_language_specifications_v0.4.0.pdf)
   * [Specification v1.1.0](./resources/claw_language_specifications_v1.1.0.pdf)
-  * Specification v2.0 - _coming soon ..._
+  * [Specification v2.0.0](./resources/claw_language_specifications_v2.0.0.pdf)
 
 
 * **CLAW Compiler code**
